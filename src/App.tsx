@@ -1,5 +1,3 @@
-import ReactPlayer from "react-player";
-import React, { useState, useEffect } from "react";
 
 function App() {
   return (
